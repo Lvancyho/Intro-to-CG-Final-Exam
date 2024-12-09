@@ -23,7 +23,9 @@ Shader "Custom/Vertex Coloring"
             {
                 v2f o;
                 o.vertex = UnityObjectToClipPos(v.vertex);
-                o.color.r = v.vertex.x;
+                o.color.r = (v.vertex.x + 5) / 10;
+                o.color.g = (v.vertex.z + 5) / 10;
+                o.color.b = v.vertex.y;
                 return o;
             }
             fixed4 frag(v2f i) : SV_Target
