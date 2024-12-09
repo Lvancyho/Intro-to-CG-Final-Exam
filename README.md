@@ -6,7 +6,7 @@ Shaders Implemented: Vertex Coloring, Outlining, Toon and Waves
 
 Why I Implemented what I've implemented:
 
-Vertex Coloring: placeholder lol
+Vertex Coloring: more roads but different style
 
 Outlining: Making the carts/players have a visible outline.
 
