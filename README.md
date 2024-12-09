@@ -15,6 +15,7 @@ Toon: The game should look cartoony as Super Mario Kart is a cartoony game.
 Waves: In rainbow road, the track goes up and down.
 
 Rainbow Texture taken from here: https://www.google.com/search?q=rainbow+texture&rlz=1C1UEAD_enCA1011CA1011&oq=rainbow+texture&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEC4YgAQyBwgJEAAYgATSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#vhid=bnU9wN_FyfREhM&vssid=_Mi1XZ-HlKIDw0PEPvMzykQg_40
+
 Normal Made with Photopea (photoshop alternative)
 
 How I implemented everything:
