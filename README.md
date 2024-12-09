@@ -24,11 +24,16 @@ Vertex Coloring:
 
 Outlining:
 
+The properties are there because the shader needs to know the main texture, the color of the outline and the width of the outline. 
+It takes into consideration of the direction that we look at it from and figures out where the verticies of the object are. 
+When the verticies are found, everything is put together and then the outline is formed.
+
 Toon:
 
 The properties are there because the shader needs to know the main texture and color.
-It takes into consideration the direction that we're looking at the object from.
+It takes into consideration of the direction that we're looking at the object from.
 Applies toon by looking at lighting and darkness properties
+Once everything is done, it puts the toon pattern on the character to give it the look that it comes from a cartoon show/game.
 
 Waves:
 
