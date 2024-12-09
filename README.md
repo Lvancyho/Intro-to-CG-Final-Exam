@@ -22,7 +22,7 @@ How I implemented everything:
 
 Vertex Coloring:
 
-There are no properties required because this is supposed to be a static shader that doesn't change. The shader looks at the material and finds all the vertices then applies the colors based on what was selected based on what vertices it can access
+There are no properties required because this is supposed to be a static shader that doesn't change. The shader looks at the object and finds all the vertices then applies the colors based on what was selected based on what vertices it can access. 
 
 Outlining:
 
