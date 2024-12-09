@@ -26,6 +26,10 @@ Outlining:
 
 Toon:
 
+The properties are there because the shader needs to know the main texture and color.
+It takes into consideration the direction that we're looking at the object from.
+Applies toon by looking at lighting and darkness properties
+
 Waves:
 
 The properties are there because the shader needs to know the main texture, color, scrolling properties such as how fast and how large the waves are.
