@@ -41,3 +41,5 @@ Waves:
 
 The properties are there because the shader needs to know the main texture, color, scrolling properties such as how fast and how large the waves are.
 Next in the subshader category, the program tells the system that I've made my selection on everything before, the program then realizes that this is the texture/material/normal that needs to be put on the object. The plane first starts off with realizing that it needs to move up and down to simulate the look of waves, then the image texture which would be my rainbow is moving from left to right and then the final look is formed.
+
+![image](https://github.com/user-attachments/assets/05fd838d-a487-4b9b-ab4d-61d671ea4a45)
