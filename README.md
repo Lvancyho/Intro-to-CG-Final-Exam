@@ -22,11 +22,13 @@ How I implemented everything:
 
 Vertex Coloring:
 
+There are no properties required because this is supposed to be a static shader that doesn't change. The shader looks at the material and finds all the vertices then applies the colors based on what was selected based on what vertices it can access
+
 Outlining:
 
 The properties are there because the shader needs to know the main texture, the color of the outline and the width of the outline. 
-It takes into consideration of the direction that we look at it from and figures out where the verticies of the object are. 
-When the verticies are found, everything is put together and then the outline is formed.
+It takes into consideration of the direction that we look at it from and figures out where the vertices of the object are. 
+When the vertices are found, everything is put together and then the outline is formed.
 
 Toon:
 
